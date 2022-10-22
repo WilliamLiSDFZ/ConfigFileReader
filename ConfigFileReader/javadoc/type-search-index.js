@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.william.util","l":"ConfigFileManager"},{"p":"com.william.test","l":"Main"},{"p":"com.william.interfaces","l":"MyConfigFile"},{"l":"所有类","url":"allclasses-index.html"}]
